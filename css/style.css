@@ -1,0 +1,49 @@
+/* Common CSS */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #19ab9cd8;
+    color: #f0efe9;
+
+}
+
+ .nav-bar{
+    background-color: #03554d;
+    padding:20px 15px;
+    box-shadow: 0 3px 10px 1px #0b2926;
+    padding-bottom: 20px;
+    font-family: cursive;
+ }
+
+ .nav-logo {
+    height: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+
+ .nav-links{
+    display: inline-block;
+
+    font-size: 30px
+ }
+
+ .nav-menu {
+    margin: 20px;
+    color: #FBF8EF;
+    text-decoration: none;
+ }
+
+ .nav-menu-selected {
+    border-bottom: 4px solid #14897f;
+    font-weight: bold; 
+ }
+
+ .heading1 {
+   font-size: 30px;
+   display: inline;
+   font-weight: 300px;
+   font-family: cursive;
+   text-align: center;
+   color: rgb(24, 53, 24);
+ }
