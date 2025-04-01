@@ -47,3 +47,12 @@ body {
    text-align: center;
    color: rgb(24, 53, 24);
  }
+
+ footer {
+   background-color: #0c5206;
+   color: white;
+   padding: 5px 0;
+   text-align: center;
+   margin-top: 20px ;
+   font-size: 30px;
+}
