@@ -1,0 +1,42 @@
+.index-box1 {
+    border: 2px solid rgb(10, 79, 10);
+    width: 250px;
+    height: 500px;
+    border-radius: 10px;
+    margin: 10px 40px;
+    padding: 10px 10px;
+   box-shadow: 1px 1px 5px 1px black;
+   display: inline-block; 
+}
+
+.heading-box1 {
+    color: rgb(18, 48, 18);
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+
+.list-box {
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.main-img {
+    width: 400px;
+    height: 450px;
+    border-radius: 80px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.main-box {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    font-family: cursive;
+    font-weight: bold;
+    color: rgb(13, 45, 13);
+    text-align: justify;
+}
